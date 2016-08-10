@@ -1,2 +1,2 @@
-<?php
+<?
 # Insert code here
