@@ -1,0 +1,14 @@
+{
+  "name": "Grubbe-framework",
+  "version": "1.0.0",
+  "description": "Fastest PHP framework ever made.",
+  "author": "Unge Programmører",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Unge-Programmoerer/Grubbe-framework"
+  },
+  "bugs": {
+    "url": "https://github.com/Unge-Programmoerer/Grubbe-framework/issues"
+  },
+  "license": "UNLICENSED"
+}
