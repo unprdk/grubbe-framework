@@ -1,0 +1,16 @@
+{
+    "name": "Unge-Programmoerer/Grubbe-framework",
+    "description": "Grubbe-framework",
+    "keywords": ["Grubbe", "framework", "php"],
+    "license": "UNLICENSED",
+    "support": {
+        "issues": "https://github.com/Unge-Programmoerer/Grubbe-framework/issues",
+        "source": "https://github.com/Unge-Programmoerer/Grubbe-framework"
+    },
+    "authors": [
+        {
+            "name": "Unge Programmører"
+        }
+    ],
+    "minimum-stability": "stable"
+}
