@@ -2,7 +2,7 @@
     "name": "unge-programmoerer/grubbe-framework",
     "description": "Grubbe-framework",
     "keywords": ["Grubbe", "framework", "php"],
-    "license": "UNLICENSED",
+    "license": "MIT",
     "support": {
         "issues": "https://github.com/Unge-Programmoerer/Grubbe-framework/issues",
         "source": "https://github.com/Unge-Programmoerer/Grubbe-framework"
