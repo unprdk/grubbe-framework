@@ -12,5 +12,8 @@
             "name": "Unge Programmører (https://unpr.dk)"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "require" : {
+        "php": ">=4.0"
+    }
 }
